@@ -11,9 +11,10 @@ The course is for people who already cook from recipes and want to know why the 
 
 ## Status
 
-**In preparation.** There are no lessons in this repository yet. Module 1 is being written;
-lessons will appear here as drafts, and each one is marked `tested` only after people have
-cooked it and reported back.
+**Module 1 is in draft.** Its four lessons are written and nobody has cooked them yet:
+the amounts and times are untested, and the lessons have no photos or video links. Each
+lesson's front matter shows its `status`, and a lesson is marked `tested` only after people
+have cooked it and reported back. Modules 2 to 5 are not written.
 
 ## Syllabus
 
@@ -46,7 +47,7 @@ Inside the file:
 
 - **Steps** say what to do and what to look for ("until the skin releases on its own").
 - **Notes** (lines that start with `>`) say why. They carry a label: `Technique:`, `Why:`,
-  `If it goes wrong:`, `Watch:`, `Next time:`.
+  `If it goes wrong:`, `Safety:`, `Watch:`, `Next time:`.
 - A `Watch:` note links a short video of the one moment that is hard to describe in words.
 - The last lesson of a module names its ingredients as slots (`protein`, `hard vegetables`)
   with the choices in brackets, so the amounts still scale and still make a shopping list.
@@ -74,8 +75,7 @@ Lessons need test cooks. If you cook one, open a
 things really took, where you got lost, and a photo if you have one. A lesson moves from
 `testing` to `tested` after two people have cooked it and reported back.
 
-There is nothing to test until the first lessons land. Watch the repository to hear when
-they do.
+Module 1 is the place to start.
 
 ## Licence
 
