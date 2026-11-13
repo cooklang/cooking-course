@@ -39,7 +39,7 @@ Dishes may change as lessons are tested.
 | 3 · Wet heat | Tomato soup (sweating, simmer against boil) · Poached chicken and stock (collagen to gelatin) · Beef stew (braising) · Any-bean soup |
 | 4 · Eggs and emulsions | French omelette (how egg sets) · Green salad with vinaigrette (emulsifying) · Mayonnaise (a stable emulsion, and mending a broken one) · Carbonara |
 | 5 · Starch | Rice pilaf (absorption, gelatinization) · Spaghetti aglio e olio (finishing pasta in the pan) · Mashed potatoes (even cooking, loose starch) · Fried rice (retrogradation) |
-| 6 · Tasting and fixing | Bitter leaf salad (salt against bitterness) · Lentils with lemon (salt, then acid) · Tomato pasta, tuned (umami, fat) · Chickpea stew, fixed (the order of fixes, and rescues) |
+| 6 · Tasting and fixing | Bitter leaf salad (salt against bitterness) · Lentils with lemon (salt, then acid) · Tomato pasta, tuned (umami, fat) · Chickpea stew, fixed (one change at a time, and rescues) |
 
 ## How a lesson is written
 
