@@ -99,7 +99,7 @@ Lessons need test cooks. If you cook one, open a
 things really took, where you got lost, and a photo if you have one. A lesson moves from
 `testing` to `tested` after two people have cooked it and reported back.
 
-Pick any lesson; module 1 is a good place to start.
+Pick any lesson; module 0 has the plain versions.
 
 ## Licence
 
