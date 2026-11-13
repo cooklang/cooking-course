@@ -1,0 +1,58 @@
+name: Test cook report
+description: You cooked a lesson. Tell us how it went.
+title: "Test cook: <lesson name>"
+labels: ["test-report"]
+body:
+  - type: input
+    id: lesson
+    attributes:
+      label: Lesson
+      description: The lesson number and dish, as in the file name.
+      placeholder: "1.1 Crispy chicken thighs"
+    validations:
+      required: true
+  - type: dropdown
+    id: result
+    attributes:
+      label: Did the dish work?
+      options:
+        - "Yes, as described"
+        - "Yes, but I had to adjust something"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: timings
+    attributes:
+      label: Real timings
+      description: Where your times differed from the recipe, and by how much. Mention your hob or oven type if it matters.
+  - type: textarea
+    id: lost
+    attributes:
+      label: Where did you get lost or have to guess?
+      description: A step that was unclear, a cue you could not see, an amount that looked wrong.
+  - type: textarea
+    id: technique
+    attributes:
+      label: Did the notes explain the technique?
+      description: Could you cook this again without the recipe? What is still unclear about why it works?
+  - type: dropdown
+    id: videos
+    attributes:
+      label: Video links
+      options:
+        - "All played and showed what the note says"
+        - "A link was dead or showed something else (say which below)"
+        - "I did not open them"
+        - "The lesson has no video links"
+  - type: textarea
+    id: photo
+    attributes:
+      label: Photo and anything else
+      description: Drag a photo of the result here if you have one.
+  - type: checkboxes
+    id: credit
+    attributes:
+      label: Credit
+      options:
+        - label: You may credit me by my GitHub username as a tester of this lesson.
