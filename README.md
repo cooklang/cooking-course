@@ -73,3 +73,12 @@ things really took, where you got lost, and a photo if you have one. A lesson mo
 
 There is nothing to test until the first lessons land. Watch the repository to hear when
 they do.
+
+## Licence
+
+The lessons, notes and photos in this repository are licensed under
+[CC BY 4.0](LICENSE): you may share and adapt them, including commercially, as long as
+you give credit. Credit "Cooklang cooking course" with a link to this repository.
+
+Videos linked from lessons belong to their owners and are not covered by this licence.
+If you send a correction or a photo, you agree to it being published under the same licence.
