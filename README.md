@@ -4,7 +4,7 @@ Learn basic cooking technique by cooking dishes.
 
 Each lesson is one recipe in [Cooklang](https://cooklang.org), a plain-text recipe format.
 The steps cook the dish. The notes between the steps explain the technique: why the pan
-starts cold, why the mushrooms go in a few at a time, what to do when the sauce splits.
+starts cold, why the mushrooms get a splash of water first, why a steak rests.
 After a lesson you should be able to cook the dish again without the recipe.
 
 The course is for people who already cook from recipes and want to know why the steps work.
@@ -25,7 +25,7 @@ This is the planned list. Dishes may change as lessons are tested.
 
 | Module | Lessons |
 |---|---|
-| 1 · Heat in a pan | Crispy chicken thighs (searing) · Mushrooms on toast (crowding the pan) · Steak with pan sauce (deglazing, resting) · Any-vegetable stir-fry |
+| 1 · Heat in a pan | Crispy chicken thighs (rendering fat) · Mushrooms on toast (water before browning) · Steak with pan sauce (searing, deglazing, resting) · Any-vegetable stir-fry |
 | 2 · The oven | Tray of roast vegetables (spacing) · Roast chicken (dry brine, carryover cooking) · Slow-baked salmon (doneness by temperature) · Sheet-pan dinner |
 | 3 · Wet heat | Tomato soup (sweating, simmer vs boil) · Poached chicken and stock (gelatin) · Beef stew (braising) · Any-bean soup |
 | 4 · Eggs and emulsions | French omelette (how egg sets) · Vinaigrette (emulsion ratio) · Mayonnaise (and fixing a broken one) · Carbonara |
@@ -33,12 +33,13 @@ This is the planned list. Dishes may change as lessons are tested.
 
 ## How a lesson is written
 
-A lesson is a `.cook` file, with a photo of the same name next to it:
+A lesson is a `.cook` file, numbered within its module, with a photo of the same name
+next to it:
 
 ```
 1 Heat in a pan/
-  Crispy chicken thighs.cook
-  Crispy chicken thighs.jpg
+  1 Crispy chicken thighs.cook
+  1 Crispy chicken thighs.jpg
 ```
 
 Inside the file:
@@ -47,6 +48,8 @@ Inside the file:
 - **Notes** (lines that start with `>`) say why. They carry a label: `Technique:`, `Why:`,
   `If it goes wrong:`, `Watch:`, `Next time:`.
 - A `Watch:` note links a short video of the one moment that is hard to describe in words.
+- The last lesson of a module names its ingredients as slots (`protein`, `hard vegetables`)
+  with the choices in brackets, so the amounts still scale and still make a shopping list.
 - The front matter records the lesson number, the technique and the lesson's `status`:
   `draft`, `testing` or `tested`.
 - Every claim about why something works has a source, kept in a `--` comment beside the
