@@ -15,31 +15,39 @@ and end with the terms to look up.
 
 ## Status
 
-**All six modules are in draft.** The 24 lessons are written and nobody has cooked them
+**All nine modules are in draft.** The 36 lessons are written and nobody has cooked them
 yet: the amounts and times are untested, and the lessons have no photos or video links.
 Each lesson's front matter shows its `status`, and a lesson is marked `tested` only after
 people have cooked it and reported back.
 
-Four lessons are cooked below official food-safety figures on purpose, because the dish
-is defined that way: the salmon, the French omelette, the mayonnaise and the carbonara.
-Each one says so in a `Safety:` note, gives the official figure, and says how to meet it.
+Five lessons are cooked below official food-safety figures on purpose, because the dish
+is defined that way: the salmon, the soft-boiled eggs, the French omelette, the mayonnaise
+and the carbonara. Each one says so in a `Safety:` note, gives the official figure, and
+says how to meet it.
 
 ## Syllabus
 
-Six modules, four lessons each. The modules do not depend on each other. The last lesson
-of each module combines what the module taught; where the dish allows, its ingredients
-are slots that you fill with what you have.
+Nine modules, four lessons each. The modules do not depend on each other. Start with
+module 0 if you want the plain versions first. The last lesson of each module combines
+what the module taught; where the dish allows, its ingredients are slots that you fill
+with what you have.
 
 Dishes may change as lessons are tested.
 
 | Module | Lessons |
 |---|---|
+| 0 · Basics | Plain rice (absorption) · Buttered pasta (boiling pasta) · Boiled eggs, soft to hard (timing) · Blanched green beans (blanching, salt) |
 | 1 · Heat in a pan | Crispy chicken thighs (rendering fat) · Mushrooms on toast (water before browning) · Steak with pan sauce (searing, deglazing, resting) · Any-vegetable stir-fry |
 | 2 · The oven | Tray of roast vegetables (dry heat, space) · Roast chicken (salting ahead, carryover) · Slow-baked salmon (cooking to a temperature) · Sheet-pan dinner |
 | 3 · Wet heat | Tomato soup (sweating, simmer against boil) · Poached chicken and stock (collagen to gelatin) · Beef stew (braising) · Any-bean soup |
 | 4 · Eggs and emulsions | French omelette (how egg sets) · Green salad with vinaigrette (emulsifying) · Mayonnaise (a stable emulsion, and mending a broken one) · Carbonara |
 | 5 · Starch | Rice pilaf (absorption, gelatinization) · Spaghetti aglio e olio (finishing pasta in the pan) · Mashed potatoes (even cooking, loose starch) · Fried rice (retrogradation) |
 | 6 · Tasting and fixing | Bitter leaf salad (salt against bitterness) · Lentils with lemon (salt, then acid) · Tomato pasta, tuned (umami, fat) · Chickpea stew, fixed (one change at a time, and rescues) |
+| 7 · Mastering the knife | Tomato salsa (grip, claw, dicing an onion) · Chimichurri (mincing, garlic strength) · Coleslaw (thin slices, matchsticks, salting) · Diced vegetable soup (cutting to a size) |
+| 8 · Mastering the machines | Slow-cooker beef chilli · Air-fryer potato wedges · Pressure-cooker risotto · Microwave jacket potatoes |
+
+The knife lessons describe grips and cuts in words. That is the weakest way to teach
+them; they are first in line for video links.
 
 ## How a lesson is written
 
