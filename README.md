@@ -7,7 +7,10 @@ The steps cook the dish. The notes between the steps explain the technique: why 
 starts cold, why the mushrooms get a splash of water first, why a steak rests.
 After a lesson you should be able to cook the dish again without the recipe.
 
-The course is for people who already cook from recipes and want to know why the steps work.
+The course is for people who already cook from recipes and want the mechanism, not just
+the rule. The notes go down to the chemistry and physics: they name each reaction (the
+Maillard reaction, the Amadori rearrangement, starch gelatinization), give the numbers,
+and end with the terms to look up.
 
 ## Status
 
@@ -47,7 +50,9 @@ Inside the file:
 
 - **Steps** say what to do and what to look for ("until the skin releases on its own").
 - **Notes** (lines that start with `>`) say why. They carry a label: `Technique:`, `Why:`,
-  `If it goes wrong:`, `Safety:`, `Watch:`, `Next time:`.
+  `Science:`, `If it goes wrong:`, `Safety:`, `Watch:`, `Next time:`.
+- A `Science:` note gives the mechanism by its proper name, with figures where they have
+  been measured, and closes with `Look up:` and the search terms.
 - A `Watch:` note links a short video of the one moment that is hard to describe in words.
 - The last lesson of a module names its ingredients as slots (`protein`, `hard vegetables`)
   with the choices in brackets, so the amounts still scale and still make a shopping list.
