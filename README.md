@@ -32,19 +32,22 @@ module 0 if you want the plain versions first. The last lesson of each module co
 what the module taught; where the dish allows, its ingredients are slots that you fill
 with what you have.
 
+Each module folder has its own README with an introduction to the module: what ties the
+lessons together, what each one is for, what you need, and any safety points.
+
 Dishes may change as lessons are tested.
 
 | Module | Lessons |
 |---|---|
-| 0 · Basics | Plain rice (absorption) · Buttered pasta (boiling pasta) · Boiled eggs, soft to hard (timing) · Blanched green beans (blanching, salt) |
-| 1 · Heat in a pan | Crispy chicken thighs (rendering fat) · Mushrooms on toast (water before browning) · Steak with pan sauce (searing, deglazing, resting) · Any-vegetable stir-fry |
-| 2 · The oven | Tray of roast vegetables (dry heat, space) · Roast chicken (salting ahead, carryover) · Slow-baked salmon (cooking to a temperature) · Sheet-pan dinner |
-| 3 · Wet heat | Tomato soup (sweating, simmer against boil) · Poached chicken and stock (collagen to gelatin) · Beef stew (braising) · Any-bean soup |
-| 4 · Eggs and emulsions | French omelette (how egg sets) · Green salad with vinaigrette (emulsifying) · Mayonnaise (a stable emulsion, and mending a broken one) · Carbonara |
-| 5 · Starch | Rice pilaf (absorption, gelatinization) · Spaghetti aglio e olio (finishing pasta in the pan) · Mashed potatoes (even cooking, loose starch) · Fried rice (retrogradation) |
-| 6 · Tasting and fixing | Bitter leaf salad (salt against bitterness) · Lentils with lemon (salt, then acid) · Tomato pasta, tuned (umami, fat) · Chickpea stew, fixed (one change at a time, and rescues) |
-| 7 · Mastering the knife | Tomato salsa (grip, claw, dicing an onion) · Chimichurri (mincing, garlic strength) · Coleslaw (thin slices, matchsticks, salting) · Diced vegetable soup (cutting to a size) |
-| 8 · Mastering the machines | Slow-cooker beef chilli · Air-fryer potato wedges · Pressure-cooker risotto · Microwave jacket potatoes |
+| [0 · Basics](0%20Basics/) | Plain rice (absorption) · Buttered pasta (boiling pasta) · Boiled eggs, soft to hard (timing) · Blanched green beans (blanching, salt) |
+| [1 · Heat in a pan](1%20Heat%20in%20a%20pan/) | Crispy chicken thighs (rendering fat) · Mushrooms on toast (water before browning) · Steak with pan sauce (searing, deglazing, resting) · Any-vegetable stir-fry |
+| [2 · The oven](2%20The%20oven/) | Tray of roast vegetables (dry heat, space) · Roast chicken (salting ahead, carryover) · Slow-baked salmon (cooking to a temperature) · Sheet-pan dinner |
+| [3 · Wet heat](3%20Wet%20heat/) | Tomato soup (sweating, simmer against boil) · Poached chicken and stock (collagen to gelatin) · Beef stew (braising) · Any-bean soup |
+| [4 · Eggs and emulsions](4%20Eggs%20and%20emulsions/) | French omelette (how egg sets) · Green salad with vinaigrette (emulsifying) · Mayonnaise (a stable emulsion, and mending a broken one) · Carbonara |
+| [5 · Starch](5%20Starch/) | Rice pilaf (absorption, gelatinization) · Spaghetti aglio e olio (finishing pasta in the pan) · Mashed potatoes (even cooking, loose starch) · Fried rice (retrogradation) |
+| [6 · Tasting and fixing](6%20Tasting%20and%20fixing/) | Bitter leaf salad (salt against bitterness) · Lentils with lemon (salt, then acid) · Tomato pasta, tuned (umami, fat) · Chickpea stew, fixed (one change at a time, and rescues) |
+| [7 · Mastering the knife](7%20Mastering%20the%20knife/) | Tomato salsa (grip, claw, dicing an onion) · Chimichurri (mincing, garlic strength) · Coleslaw (thin slices, matchsticks, salting) · Diced vegetable soup (cutting to a size) |
+| [8 · Mastering the machines](8%20Mastering%20the%20machines/) | Slow-cooker beef chilli · Air-fryer potato wedges · Pressure-cooker risotto · Microwave jacket potatoes |
 
 The knife lessons describe grips and cuts in words. That is the weakest way to teach
 them; they are first in line for video links.
